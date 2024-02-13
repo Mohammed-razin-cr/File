@@ -4,4 +4,4 @@ Python program to convert Text to Handwriting
 pip install pygame
 # fonts
 you can use those 16 fonts style which is in font directory
-You can also download font from google and replace the existing font .
+You can also download more fons from google and replace the existing font .
